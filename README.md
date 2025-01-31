@@ -15,8 +15,6 @@
 
 # **Description**
 
-# Amazon Books Recommendation System
-
 ## Project Overview
 The **Amazon Books Recommendation System** is a machine learning-based project that helps users discover books based on their preferences, past interactions, and reading history. By leveraging **collaborative filtering**, this system aims to provide personalized book recommendations, enhancing the user experience and making book discovery easier and more efficient.
 
